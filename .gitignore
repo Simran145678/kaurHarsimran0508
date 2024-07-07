@@ -32,3 +32,4 @@ yarn-error.log*
 !*.json
 !/public
 !/src
+!/dist
