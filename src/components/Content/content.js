@@ -11,6 +11,10 @@ import github from "../../assets/images/github-icon-2.svg";
 import nodejs from "../../assets/images/nodejs-icon.svg";
 import vscode from "../../assets/images/visual-studio-code-1.svg";
 import figma from "../../assets/images/figma-5.svg";
+import cook from "../../assets/images/cook.png";
+import paypal from "../../assets/images/paypal.png";
+import portfolio from "../../assets/images/Portfolio.png";
+import furniture from "../../assets/images/furniture.png";
 
 //Project logos
 import tenethealth from "../../assets/images/Tenet_Health_logo.png";
@@ -74,5 +78,32 @@ export const projectsList = [
             Created reusable UI components HTML, CSS, React and JavaScript.|
             Implemented and tested accessibility features such as ARIA roles. |
             Conducted usability testing.`,
+  },
+];
+
+export const PersonalProjectsList = [
+  {
+    title: "Cook. recipe-app",
+    image: cook,
+    liveSite: "https://main--cook-the-recipe-app.netlify.app/",
+    github: "https://github.com/Simran145678/cook",
+  },
+  {
+    title: "Paypal Clone",
+    image: paypal,
+    liveSite: "https://simran145678.github.io/Paypal-clone/",
+    github: "https://github.com/Simran145678/Paypal-clone?tab=readme-ov-file",
+  },
+  {
+    title: "Furniture Store Website",
+    image: furniture,
+    liveSite: "https://simran145678.github.io/furniture-store-project-CSS/",
+    github: "https://github.com/Simran145678/furniture-store-project-CSS",
+  },
+  {
+    title: "Portfolio Website",
+    image: portfolio,
+    liveSite: "https://kaurharsimran0508.netlify.app/",
+    github: "https://github.com/Simran145678/Portfolio_1.2",
   },
 ];
