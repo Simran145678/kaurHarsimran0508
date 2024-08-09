@@ -55,10 +55,7 @@ export default function Projects(props) {
       </div>
       <div className="reveal flex flex-col p-6 ml-auto mr-auto items-center w-5/6 mb-8">
         <p className="lg:px-10 leading-relaxed text-center text-gray-800">
-          With over 2 years of web development experience, I've mastered HTML,
-          CSS, and JavaScript, excelling in front-end frameworks like React.
-          Proficient in Git and GitHub, I've collaborated in agile environments
-          and maintained code quality, performance and scalability.
+          With a strong background in web development, I've mastered HTML, CSS, and JavaScript, excelling in front-end frameworks like React. Proficient in Git and GitHub, I've collaborated in agile environments to maintain code quality, performance, and scalability.
         </p>
       </div>
 
