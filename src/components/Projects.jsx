@@ -55,7 +55,7 @@ export default function Projects(props) {
       </div>
       <div className="reveal flex flex-col p-6 ml-auto mr-auto items-center w-5/6 mb-8">
         <p className="lg:px-10 leading-relaxed text-center text-gray-800">
-          With a strong background in web development, I've mastered HTML, CSS, and JavaScript, excelling in front-end frameworks like React. Proficient in Git and GitHub, I've collaborated in agile environments to maintain code quality, performance, and scalability.
+         I excel in creating responsive, dynamic, and user-centric web applications. My expertise spans across modern front-end frameworks and libraries, including React.js, along with a deep understanding of HTML5, CSS3, and JavaScript ES6+. I am proficient in leveraging tools like Webpack, Babel, and NPM to optimize build processes, and I have a solid background in RESTful APIs and version control with Git. My passion lies in crafting seamless user experiences and delivering high-quality, performant solutions that align with the latest industry standards.
         </p>
       </div>
 
