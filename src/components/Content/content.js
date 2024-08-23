@@ -65,7 +65,7 @@ export const projectsList = [
     title: "Front-end Developer",
     subHeading: "As part of the ADS team on Tenethealth project, I",
     rolesNdResposibilities: `Participated in Project Planning and Requirement Analysis. |
-            Developed responsive and ADA Compliant web pages using HTML,CSS, TailwindCSS, Vuejs and JavaScript. |
+            Developed responsive and ADA Compliant web pages using HTML,CSS, TailwindCSS, React JS and JavaScript. |
             Ensured cross-browser compatibility and fixed issues as they arise. |
             Conducted thorough testing of the web application. |
             Reviewed and Documented code`,
