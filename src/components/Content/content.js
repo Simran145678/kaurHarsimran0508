@@ -62,7 +62,7 @@ export const skillsImageList = [
 export const projectsList = [
   {
     path: tenethealth,
-    title: "Front-end Developer",
+    title: "Software Developer",
     subHeading: "As part of the ADS team on Tenethealth project, I",
     rolesNdResposibilities: `Participated in Project Planning and Requirement Analysis. |
             Developed responsive and ADA Compliant web pages using HTML,CSS, TailwindCSS, Vue JS and JavaScript. |
@@ -72,7 +72,7 @@ export const projectsList = [
   },
   {
     path: consumersenergy,
-    title: "UI Developer",
+    title: "Web Developer",
     subHeading: " As UI developer on the Consumers Energy project, I",
     rolesNdResposibilities: `Implemented User Interface Design. |
             Created reusable UI components HTML, CSS, React and JavaScript.|
